@@ -1,0 +1,4 @@
+venv/
+transcripts/audio/
+*.m4a
+__pycache__/
